@@ -1,0 +1,19 @@
+#principal {
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+    border: 3px solid black;
+}
+
+.container-fluid {
+    border: 3px solid red;
+    justify-content: center;
+}
+
+.fila-mod {
+    border: 2px solid blue;
+}
+
+.fila-mod td {
+    background-color: lightblue;
+}
